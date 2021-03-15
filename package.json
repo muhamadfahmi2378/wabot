@@ -1,7 +1,7 @@
 {
-  "name": "wabot-aq",
+  "name": "wabot-mhmdfhmialmbrq",
   "version": "1.3.0",
-  "description": "Customizable WhatsApp Bot",
+  "description": "BOT - Mhmd Fhmi Al Mbrq",
   "depecrated": false,
   "main": "index.js",
   "directories": {
@@ -21,7 +21,7 @@
   ],
   "homepage": "https://github.com/Naze-dev/wabot",
   "author": {
-    "name": "Naze-dev"
+    "name": "*BOT - Mhmd Fhmi Al Mbrq"
   },
   "repository": {
     "url": "https://github.com/Naze-dev/wabot.git"

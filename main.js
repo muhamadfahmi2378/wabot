@@ -16,7 +16,7 @@ let rl = Readline.createInterface(process.stdin, process.stdout)
 let WAConnection = simple.WAConnection(_WAConnection)
 
 
-global.owner = ['6285875158363'] // Put your number here
+global.owner = ['6281352128440'] // Put your number here
 global.mods = ['6285875158363'] // Want some help?
 global.prems = ['6285875158363'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
@@ -269,8 +269,8 @@ conn.handler = async function (m) {
     }
   }
 }
-conn.welcome = 'Hai, @user!\nSelamat datang di grup @subject'
-conn.bye = 'Selamat tinggal @user!'
+conn.welcome = 'Hi , @user!\nSelamat datang di grup @subject'
+conn.bye = 'Selamat Tinggal @user!'
 conn.onAdd = async function ({ m, participants }) {
   let chat = global.DATABASE._data.chats[m.key.remoteJid]
   if (!chat.welcome) return

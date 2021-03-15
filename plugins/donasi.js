@@ -1,10 +1,21 @@
 let handler = async m => m.reply(`
-╭─「 Donasi • Pulsa • Gopay • Dana • Subscribe 」
-│ • Smartfren [088228825906]
-│ • Gopay [088228825906]
-│ • Dana [088228825906]
-│ • Youtube [https://youtube.com/channel/UCl77jQD3nSFp__z1oRxm-fA]
-╰────
+╭─「 Donate • Follow • Like • Comment • Share • Subscribe 」
+│
+│ • Telkomsel [082155313143]
+│
+│ • GoPay [082155313143]
+│
+│ • Dana [082155313143]
+│
+│ • FaceBook [https://web.facebook.com/mhmdfhmialmbrq]
+│
+│ • Instagram [https://www.instagram.com/mhmdfhmialmbrq]
+│
+│ • Twitter [https://twitter.com/mhmdfhmialmbrq]
+│
+│ • YouTube [https://www.youtube.com]
+│
+╰─「 Donate • Follow • Like • Comment • Share • Subscribe 」
 `.trim()) // Tambah sendiri kalo mau
 handler.help = ['donasi']
 handler.tags = ['info']

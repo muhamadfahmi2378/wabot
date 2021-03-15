@@ -1,0 +1,861 @@
+{
+  "users": {
+    "6289644075808@s.whatsapp.net": {
+      "exp": 48,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6281903882355@s.whatsapp.net": {
+      "exp": 51,
+      "limit": 90,
+      "lastclaim": 0
+    },
+    "6285791644243@s.whatsapp.net": {
+      "exp": 0,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6287729381279@s.whatsapp.net": {
+      "exp": 43,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6282377425802@s.whatsapp.net": {
+      "exp": 5,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6281352128440@s.whatsapp.net": {
+      "exp": 1534,
+      "limit": 10,
+      "lastclaim": 1615769875517
+    },
+    "6281360583788@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6283197862754@s.whatsapp.net": {
+      "exp": 1036,
+      "limit": 7,
+      "lastclaim": 1615757109429
+    },
+    "6281350301781@s.whatsapp.net": {
+      "exp": 114,
+      "limit": 1000,
+      "lastclaim": 0
+    },
+    "6285871568394@s.whatsapp.net": {
+      "exp": 29,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6282157959660@s.whatsapp.net": {
+      "exp": 16,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6285732123528@s.whatsapp.net": {
+      "exp": 38,
+      "limit": 5,
+      "lastclaim": 0
+    },
+    "6283838751999@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6282151946762@s.whatsapp.net": {
+      "exp": 6,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6288223583562@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "62859175721202@s.whatsapp.net": {
+      "exp": 6,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6281326606211@s.whatsapp.net": {
+      "exp": 32,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6288228825906@s.whatsapp.net": {
+      "exp": 7,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6282287305679@s.whatsapp.net": {
+      "exp": 67,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6287747496328@s.whatsapp.net": {
+      "exp": 8,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6282259323732@s.whatsapp.net": {
+      "exp": 4,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "628996265591@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6282284101641@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6285389443356@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6285156389480@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6282314888919@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "62895341319385@s.whatsapp.net": {
+      "exp": 4,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6282262385088@s.whatsapp.net": {
+      "exp": 7,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6285753463048@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6281224113190@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6281225325337@s.whatsapp.net": {
+      "exp": 2,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6281264096168@s.whatsapp.net": {
+      "exp": 77,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6289652922344@s.whatsapp.net": {
+      "exp": 27,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6281998201974@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6282219565080@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6289629672515@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "62895610072257@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6283107704647@s.whatsapp.net": {
+      "exp": 3,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6282164487403@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6283873922826@s.whatsapp.net": {
+      "exp": 2,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6283132096207@s.whatsapp.net": {
+      "exp": 21,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6289695771448@s.whatsapp.net": {
+      "exp": 3,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6285875134329@s.whatsapp.net": {
+      "exp": 3,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6289519975007@s.whatsapp.net": {
+      "exp": 68,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6285314626398@s.whatsapp.net": {
+      "exp": 4,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "62895341628524@s.whatsapp.net": {
+      "exp": 3,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6281384215062@s.whatsapp.net": {
+      "exp": 11,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6281298990594@s.whatsapp.net": {
+      "exp": 3,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6289527411160@s.whatsapp.net": {
+      "exp": 3,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6287800218897@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6282135407572@s.whatsapp.net": {
+      "exp": 7,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6281222445364@s.whatsapp.net": {
+      "exp": 2,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6285157869983@s.whatsapp.net": {
+      "exp": 20,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6289523129362@s.whatsapp.net": {
+      "exp": 9,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6281993306336@s.whatsapp.net": {
+      "exp": 9,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6285845023263@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6282272094848@s.whatsapp.net": {
+      "exp": 5,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6287849491451@s.whatsapp.net": {
+      "exp": 2,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6283145192725@s.whatsapp.net": {
+      "exp": 10,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6282272708204@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6285747063679@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6285363856575@s.whatsapp.net": {
+      "exp": 8,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6289603691746@s.whatsapp.net": {
+      "exp": 26,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6285939679199@s.whatsapp.net": {
+      "exp": 4,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "62895338090352@s.whatsapp.net": {
+      "exp": 5,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6282211562468@s.whatsapp.net": {
+      "exp": 4,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6281949750935@s.whatsapp.net": {
+      "exp": 4,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6283152251403@s.whatsapp.net": {
+      "exp": 6,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "62881036123955@s.whatsapp.net": {
+      "exp": 4,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "628563598433@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6285233902813@s.whatsapp.net": {
+      "exp": 2,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6285767222752@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "62823262474660@s.whatsapp.net": {
+      "exp": 4,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6281326479187@s.whatsapp.net": {
+      "exp": 3,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6285713495784@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6281365955211@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6283121819555@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6289512754412@s.whatsapp.net": {
+      "exp": 6,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6283873095649@s.whatsapp.net": {
+      "exp": 17,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6283827203511@s.whatsapp.net": {
+      "exp": 3,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6281245119592@s.whatsapp.net": {
+      "exp": 2,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6289503956425@s.whatsapp.net": {
+      "exp": 3,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6282132097145@s.whatsapp.net": {
+      "exp": 24,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "62895362398200@s.whatsapp.net": {
+      "exp": 7,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "18022313404@s.whatsapp.net": {
+      "exp": 0,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6285723922978@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6285260636382@s.whatsapp.net": {
+      "exp": 3,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6285333920861@s.whatsapp.net": {
+      "exp": 5,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6281240185291@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6281256793543@s.whatsapp.net": {
+      "exp": 43,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6289509263889@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6285839067735@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6288218194652@s.whatsapp.net": {
+      "exp": 2,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6285293304210@s.whatsapp.net": {
+      "exp": 6,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6282373713631@s.whatsapp.net": {
+      "exp": 2,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6285845306838@s.whatsapp.net": {
+      "exp": 14,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6285754052412@s.whatsapp.net": {
+      "exp": 4,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6289505026655@s.whatsapp.net": {
+      "exp": 1002,
+      "limit": 10,
+      "lastclaim": 1615764260934
+    },
+    "6281293179124@s.whatsapp.net": {
+      "exp": 11,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6285275134903@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6282329240100@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6285713310005@s.whatsapp.net": {
+      "exp": 2,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6283168926529@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6282126867829@s.whatsapp.net": {
+      "exp": 2,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6287713432956@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6289607838718@s.whatsapp.net": {
+      "exp": 3,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6281574840433@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "628887975056@s.whatsapp.net": {
+      "exp": 20054,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6281549407753@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6282181513646@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6285246050798@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6281362907535@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6281271395020@s.whatsapp.net": {
+      "exp": 3,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6282191537790@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6285833103629@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 10,
+      "lastclaim": 0
+    },
+    "6281324296922@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 10,
+      "lastclaim": 0
+    }
+  },
+  "groups": {},
+  "chats": {
+    "6281996895306-1606392404@g.us": {
+      "isBanned": false,
+      "welcome": false,
+      "sWelcome": "",
+      "sBye": "",
+      "delete": true
+    },
+    "6281260713169-1603245280@g.us": {
+      "isBanned": false,
+      "welcome": false,
+      "sWelcome": "",
+      "sBye": "",
+      "delete": true
+    },
+    "6285871568394-1613749762@g.us": {
+      "isBanned": false,
+      "welcome": false,
+      "sWelcome": "",
+      "sBye": "",
+      "delete": true
+    },
+    "6283892073777-1577613406@g.us": {
+      "isBanned": false,
+      "welcome": false,
+      "sWelcome": "",
+      "sBye": "",
+      "delete": true
+    },
+    "6285363856575-1597237092@g.us": {
+      "isBanned": false,
+      "welcome": false,
+      "sWelcome": "",
+      "sBye": "",
+      "delete": true
+    },
+    "6282339598400-1607952643@g.us": {
+      "isBanned": false,
+      "welcome": false,
+      "sWelcome": "",
+      "sBye": "",
+      "delete": true
+    },
+    "6288228825906@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": false,
+      "sWelcome": "",
+      "sBye": "",
+      "delete": true
+    },
+    "status@broadcast": {
+      "isBanned": false,
+      "welcome": false,
+      "sWelcome": "",
+      "sBye": "",
+      "delete": true
+    },
+    "6281326479187-1597930474@g.us": {
+      "isBanned": false,
+      "welcome": false,
+      "sWelcome": "",
+      "sBye": "",
+      "delete": true
+    },
+    "6283172648778-1613528230@g.us": {
+      "isBanned": false,
+      "welcome": false,
+      "sWelcome": "",
+      "sBye": "",
+      "delete": true
+    },
+    "6287742641419-1590893771@g.us": {
+      "isBanned": false,
+      "welcome": false,
+      "sWelcome": "",
+      "sBye": "",
+      "delete": true
+    },
+    "6285835572766-1555853198@g.us": {
+      "isBanned": false,
+      "welcome": false,
+      "sWelcome": "",
+      "sBye": "",
+      "delete": true
+    },
+    "6289519975007@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": false,
+      "sWelcome": "",
+      "sBye": "",
+      "delete": true
+    },
+    "6283197862754@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": false,
+      "sWelcome": "",
+      "sBye": "",
+      "delete": true
+    },
+    "6287747496328@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": false,
+      "sWelcome": "",
+      "sBye": "",
+      "delete": true
+    },
+    "6281283005598@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": false,
+      "sWelcome": "",
+      "sBye": "",
+      "delete": true
+    },
+    "62895360960923-1611465434@g.us": {
+      "isBanned": false,
+      "welcome": false,
+      "sWelcome": "",
+      "sBye": "",
+      "delete": true
+    },
+    "6281218531266-1579699634@g.us": {
+      "isBanned": false,
+      "welcome": false,
+      "sWelcome": "",
+      "sBye": "",
+      "delete": true
+    },
+    "6281326895206@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": false,
+      "sWelcome": "",
+      "sBye": "",
+      "delete": true
+    },
+    "6285262939622-1599622693@g.us": {
+      "isBanned": false,
+      "welcome": false,
+      "sWelcome": "",
+      "sBye": "",
+      "delete": true
+    }
+  },
+  "stats": {
+    "menu.js": {
+      "total": 38,
+      "success": 38,
+      "last": 1615770231081,
+      "lastSuccess": 1615770231081
+    },
+    "pengumuman.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1615757284280,
+      "lastSuccess": 1615757284280
+    },
+    "tts.js": {
+      "total": 9,
+      "success": 9,
+      "last": 1615757654722,
+      "lastSuccess": 1615757654722
+    },
+    "play.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1615756979754,
+      "lastSuccess": 1615756979754
+    },
+    "unbanchat.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1615764405375,
+      "lastSuccess": 1615764405375
+    },
+    "toimg.js": {
+      "total": 6,
+      "success": 6,
+      "last": 1615758124406,
+      "lastSuccess": 1615758124406
+    },
+    "apakah2.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1615756958013,
+      "lastSuccess": 1615756958013
+    },
+    "link.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1615756953197,
+      "lastSuccess": 1615756953197
+    },
+    "math_answer.js": {
+      "total": 7,
+      "success": 6,
+      "last": 1615770462839,
+      "lastSuccess": 1615770462839
+    },
+    "sticker.js": {
+      "total": 4,
+      "success": 0,
+      "last": 1615762428820,
+      "lastSuccess": 0
+    },
+    "ttp.js": {
+      "total": 2,
+      "success": 0,
+      "last": 1615757074960,
+      "lastSuccess": 0
+    },
+    "daily.js": {
+      "total": 5,
+      "success": 5,
+      "last": 1615770075504,
+      "lastSuccess": 1615770075504
+    },
+    "profile.js": {
+      "total": 12,
+      "success": 12,
+      "last": 1615770010359,
+      "lastSuccess": 1615770010359
+    },
+    "yta.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1615758125784,
+      "lastSuccess": 1615758125784
+    },
+    "creator.js": {
+      "total": 13,
+      "success": 11,
+      "last": 1615767230915,
+      "lastSuccess": 1615767230915
+    },
+    "speed.js": {
+      "total": 6,
+      "success": 6,
+      "last": 1615770362355,
+      "lastSuccess": 1615770362355
+    },
+    "donasi.js": {
+      "total": 8,
+      "success": 8,
+      "last": 1615770733063,
+      "lastSuccess": 1615770733063
+    },
+    "delete.js": {
+      "total": 4,
+      "success": 1,
+      "last": 1615764577599,
+      "lastSuccess": 1615762457211
+    },
+    "math.js": {
+      "total": 5,
+      "success": 4,
+      "last": 1615767484588,
+      "lastSuccess": 1615767484588
+    },
+    "leaderboard.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1615767384822,
+      "lastSuccess": 1615767384822
+    },
+    "update.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1615770176579,
+      "lastSuccess": 1615770176579
+    },
+    "exec.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1615770612907,
+      "lastSuccess": 1615770612907
+    }
+  }
+}
